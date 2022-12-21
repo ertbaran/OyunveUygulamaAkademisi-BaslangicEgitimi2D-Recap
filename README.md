@@ -1,6 +1,6 @@
-# Oyun ve Uygulama Akademisi | Unity Başlangıç Eğitimi (2D Tekrar Projesi-Recap)
-## Unity versiyonu: 2020.3.32f1
-## (Eğitimdeki haline göre ufak değişiklikler olabilir)
+## Oyun ve Uygulama Akademisi 2021-2022 | Unity Başlangıç Eğitimi (2D Tekrar Projesi-Recap)
+### Unity versiyonu: 2020.3.32f1
+### (Eğitimdeki haline göre ufak değişiklikler olabilir)
 
 ![image](https://user-images.githubusercontent.com/35369764/209020805-69082e84-547d-4529-9089-db7e988c06f8.png)
 
